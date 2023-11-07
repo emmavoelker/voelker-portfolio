@@ -12,7 +12,7 @@ In this course, I hope to learn more about creating impactful and well-designed 
 ## Portfolio
 ### Data Visualization 2
 
-
+https://github.com/emmavoelker/dataviz2.git 
 
 ### Critique By Design
 
