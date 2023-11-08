@@ -34,6 +34,13 @@ https://github.com/emmavoelker/dataviz2.git
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+## Explaining My Visualization 
+In creating my own visualization of the data, I narrowed down the given data set to just analyze the GDP-to-debt ratios of included countries in the year 2020. In narrowing down the data, we can analyze the trend between GDP-to-debt ratios between countries at one moment in time as opposed to comparing these data points across a point of 5+ years as done prior. As opposed to the previous visualizations, the line focuses on trends over the given year, and how the total ratios for each country compare to one another. The bar chart accomplishes a similar goal, but the line graph focuses more on the trend line between countries. The heat map conveys the large/small value of each data point, and its usage of color helps the audience to easily determine which countries have a higher ratio value versus lower. 
+
+From a design perspective, the individual columns were highlighted for purposes of clarity and ease of access to information when reading the chart. The measurement of each point (the "ggdebt" value corresponding to each country) is able to be seen when drifted over with the mouse, again for increased clarity in information. 
+
+As for my source, I utilized the same OECD Data set, titled "general government debt." and narrowed the dataset down to just include data from the year 2020. 
+
 ### Critique By Design
 
 ### Choosing Chart Types
