@@ -43,6 +43,26 @@ As for my source, I utilized the same OECD Data set, titled "general government 
 
 ### Critique By Design
 
+Overall, there are a few things I believe the data visual does well. The pie chart provides adequate information that gives the viewer a comprehensive view of the data presented, allowing them to understand its importance. Unlike other examples seen in class and other assignments, the visual provides enough context to interpret the visual efficiently. 
+
+However, what stood out to me as inhibiting the chart’s ability to convey information in an intuitive manner was firstly color usage. Though the colors help a viewer to identify each manufacturer, it is difficult to understand the story the data is telling, and which points should be focused on when communicating the story. Several of the color variations are also similar hues to one another- for example the two shades of purple- that make for a less than ideal comparison when attempting to contrast the area of Daimler Trucks and Kia.
+
+Secondly, I noticed the lack of context in what time periods these data points were taken from. What year is being measured? After looking at the chart below and some other areas of the visual, we can deduce the answer, but the knowledge was not intuitive when looking at the chart. In order to receive the whole data story, it is important for audiences to understand these key details. 
+
+In creating the visual differently, I would firstly utilize color in a more meaningful way-likely using it to highlight the top three most common manufacturers of recalls and developing a story there. The color usage would likely be shades of red with the rest of the pie chart in a shade of gray. This way, we still can see and understand each data point, but viewers are ot longer overwhelmed with the color representing each data point, and will know intuitively where to focus to receive key information.  
+
+#### Who is the Primary Audience? 
+Judging that the data visualization was posted by the Department of Transportation on their own website, it is easily accessed by the general public. The visualization itself is easy to contextualize and does not require prior research or experience to understand the information given.
+
+However, unless the average person is interested in comparing the amount of recalls by car manufacturer, this visualization tool will be targeted to those doing research on the topic or interested in learning more about car safety. Another audience may be individuals looking to purchase a new car and are looking to identify a “safe” manufacturer, judging by the amount of recalls.
+
+I do think it is effective at reaching the audience, and if there are instances where it falls short, it would be due to the website design rather than the presentation of the data in the visual. When attempting to re-navigate to the graphic from the home page, it was a straight-forward process of searching for the graphic title and content in the search bar. Intended audiences can easily access this information. 
+
+#### Final Thoughts 
+I feel as though this method of evaluation was complete in its nature and that I was able to efficiently communicate my key thoughts on the visual. The breakdown of an evaluation into rankings based on adjectives I found to be efficient. One can rank numerically the impact of a visual on a scale, and then may explain the reasoning in a separate section. Each adjective was descriptive and made for a properly challenging question for the visual to prove itself against. I especially liked the inclusion of the evaluation words “usefulness” and “intuitiveness,” both of which helped me to explore more completely the impact of the graphic. 
+
+In approaching a redesign of the graphic itself, I would propose the changes I briefly outlined above, starting with changing the use of color to instead be utilized in a way that both tells a story with the data and emphasizes certain parts of it. I would also change the included information to provide more context as to when the data was being collected and what time periods it analyses. The graphic otherwise does a proficient job at giving audiences context for the visual, but leaves out this key factor. 
+
 ### Choosing Chart Types
 
 ### Final Project
