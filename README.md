@@ -10,6 +10,14 @@ I have a background in marketing and communications, and am excited to learn mor
 In this course, I hope to learn more about creating impactful and well-designed data visualizations. As a student looking to go into marketing after graduation, I hope to gain knowledge of how to convey data to an audience in a way that is thoughtful and meaningful. The world of marketing, especially when it comes to aspects like campaign tracking and reporting, is full of data. It will prove very helpful if I am able to navigate data visualization in a way that is helpful to my colleagues and audiences.  
 
 ## Portfolio
+
+### Critique By Design
+
+Access my project involving Critique By Design by visiting here: https://emmavoelker.github.io/VisualCritique/ 
+
+### Final Project
+Check out my final project here! https://github.com/emmavoelker/final_project_EmmaVoelker
+
 ### Data Visualization 2
 
 <iframe src="https://data.oecd.org/chart/7faU" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7faU" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
@@ -40,11 +48,3 @@ In creating my own visualization of the data, I narrowed down the given data set
 From a design perspective, the individual columns were highlighted for purposes of clarity and ease of access to information when reading the chart. The measurement of each point (the "ggdebt" value GDP-to-Debt Ratio corresponding to each country) is able to be seen when clicked on with the user's mouse, again for increased clarity in information and easy access to specific data points if needed. 
 
 As for my source, I utilized the same OECD Data set, titled "general government debt." and narrowed the dataset down to just include the measured country's data from the year 2020. 
-
-### Critique By Design
-
-Access my project involving Critique By Design by visiting here: https://emmavoelker.github.io/VisualCritique/ 
-
-### Choosing Chart Types
-
-### Final Project
